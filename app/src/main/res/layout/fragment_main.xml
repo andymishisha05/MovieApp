@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.essam.movieapp.MoviesFragment">
+
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/recyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:numColumns="auto_fit"
+    android:columnWidth="@dimen/grid_item_movie_width"
+    android:verticalSpacing="@dimen/grid_item_movie_spacing"
+    android:horizontalSpacing="@dimen/grid_item_movie_spacing"
+    android:padding="@dimen/grid_item_movie_spacing"
+    android:drawSelectorOnTop="true">
+
+</android.support.v7.widget.RecyclerView>
+
+
+
+
+
+
+    </FrameLayout>

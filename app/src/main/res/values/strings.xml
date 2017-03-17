@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="action_sort_by">Sort by</string>
+    <string name="sort_by_popular">Most Popular</string>
+    <string name="sort_by_rating">Highest Rated</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Released</string>
+    <string name="details">Details</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="content_authority">com.example.essam.movieapp</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="sort_by_favorite">Favorites</string>
+    <string name="action_share">Share</string>
+    <string name="Reviews" />
+    <string name="Trailer1" translatable="false">  Trailer  1</string>
+    <string name="Trailer2" translatable="false">  Trailer  2</string>
+    <string name="Trailers" />
+    <string name="no_movies">No Movies</string>>
+    <string name="favorite" translatable="false">FAVORITE</string>
+    <string name="no_favourites" translatable="false">no favourite Movie</string>
+
+</resources>
